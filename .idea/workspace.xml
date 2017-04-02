@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b43947-8404-450f-89fa-2962c1b5e4ad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PizzaManager.java" afterPath="$PROJECT_DIR$/src/PizzaManager.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,77 +20,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PizzaManager.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PizzaManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="399" column="29" lean-forward="false" selection-start-line="399" selection-start-column="29" selection-end-line="399" selection-end-column="29" />
-              <folding>
-                <element signature="docComment;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;field#instructions#0;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#start#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#start#0;class#PizzaManager#0" expanded="false" />
-                <element signature="e#2055#2091#0" expanded="false" />
-                <element signature="docComment;method#eatSomePizza#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#eatSomePizza#0;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#addRandomPizza#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#addRandomPizza#0;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#displayAllPizzas#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#displayAllPizzas#0;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#mergeSortByPrice#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#mergeSortByPrice#0;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#sortByPrice#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#sortByPrice#0;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#mergeSortByPrice#1;class#PizzaManager#0" expanded="false" />
-                <element signature="method#mergeSortByPrice#1;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#sortByPrice#1;class#PizzaManager#0" expanded="false" />
-                <element signature="method#sortByPrice#1;class#PizzaManager#0" expanded="false" />
-                <element signature="e#8371#8378#0" expanded="false" />
-                <element signature="docComment;method#mergeSortBySize#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#mergeSortBySize#0;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#sortBySize#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#sortBySize#0;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#mergeSortBySize#1;class#PizzaManager#0" expanded="false" />
-                <element signature="method#mergeSortBySize#1;class#PizzaManager#0" expanded="false" />
-                <element signature="method#sortBySize#1;class#PizzaManager#0" expanded="false" />
-                <element signature="e#10475#10503#0" expanded="false" />
-                <element signature="method#mergeSortByCalories#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#sortByCalories#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#mergeSortByCalories#1;class#PizzaManager#0" expanded="false" />
-                <element signature="method#sortByCalories#1;class#PizzaManager#0" expanded="false" />
-                <element signature="docComment;method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-                <element signature="class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#sort#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#mergeByCalories#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-                <element signature="method#main#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Pizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2635">
-              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -510,7 +439,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1362" y="-4" width="1374" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -527,7 +455,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16251831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16251831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -596,10 +524,6 @@
             <element signature="method#sortByCalories#1;class#PizzaManager#0" expanded="false" />
             <element signature="docComment;method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
             <element signature="method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-            <element signature="class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#sort#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#mergeByCalories#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#main#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -657,10 +581,6 @@
             <element signature="method#sortByCalories#1;class#PizzaManager#0" expanded="false" />
             <element signature="docComment;method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
             <element signature="method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-            <element signature="class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#sort#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#mergeByCalories#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#main#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -718,10 +638,6 @@
             <element signature="method#sortByCalories#1;class#PizzaManager#0" expanded="false" />
             <element signature="docComment;method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
             <element signature="method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-            <element signature="class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#sort#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#mergeByCalories#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#main#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -779,10 +695,6 @@
             <element signature="method#sortByCalories#1;class#PizzaManager#0" expanded="false" />
             <element signature="docComment;method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
             <element signature="method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-            <element signature="class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#sort#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#mergeByCalories#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#main#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -840,10 +752,6 @@
             <element signature="method#sortByCalories#1;class#PizzaManager#0" expanded="false" />
             <element signature="docComment;method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
             <element signature="method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-            <element signature="class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#sort#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#mergeByCalories#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#main#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -901,10 +809,6 @@
             <element signature="method#sortByCalories#1;class#PizzaManager#0" expanded="false" />
             <element signature="docComment;method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
             <element signature="method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-            <element signature="class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#sort#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#mergeByCalories#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#main#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -994,13 +898,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/X.java" />
-    <entry file="file://$PROJECT_DIR$/src/PizzaComparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PizzaException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1121,14 +1018,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mergeSortexample.java" />
-    <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Pizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2635">
@@ -1137,10 +1026,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/PizzaComparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PizzaManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="399" column="29" lean-forward="false" selection-start-line="399" selection-start-column="29" selection-end-line="399" selection-end-column="29" />
+        <state relative-caret-position="492">
+          <caret line="443" column="5" lean-forward="false" selection-start-line="443" selection-start-column="5" selection-end-line="443" selection-end-column="5" />
           <folding>
             <element signature="docComment;class#PizzaManager#0" expanded="false" />
             <element signature="docComment;field#instructions#0;class#PizzaManager#0" expanded="false" />
@@ -1176,11 +1073,15 @@
             <element signature="method#sortByCalories#1;class#PizzaManager#0" expanded="false" />
             <element signature="docComment;method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
             <element signature="method#binarySearchByCalories#0;class#PizzaManager#0" expanded="false" />
-            <element signature="class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#sort#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#mergeByCalories#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
-            <element signature="method#main#0;class#MergeSort#0;class#PizzaManager#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

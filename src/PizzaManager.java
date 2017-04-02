@@ -342,6 +342,7 @@ public class PizzaManager {
 
     /**
      * merge sort by calories
+     *
      * @param pizzas ArrayList
      */
     public void mergeSortByCalories(ArrayList<Pizza> pizzas) {
@@ -351,8 +352,9 @@ public class PizzaManager {
 
     /**
      * helper split method
-     * @param low int
-     * @param high int
+     *
+     * @param low    int
+     * @param high   int
      * @param pizzas ArrayList
      */
     private void sortByCalories(int low, int high, ArrayList<Pizza> pizzas) {
@@ -366,9 +368,10 @@ public class PizzaManager {
 
     /**
      * helper merge method
-     * @param low int
+     *
+     * @param low    int
      * @param middle int
-     * @param high int
+     * @param high   int
      * @param pizzas ArrayList
      */
     private void mergeSortByCalories(int low, int middle, int high, ArrayList<Pizza> pizzas) {
@@ -438,53 +441,5 @@ public class PizzaManager {
 
     private void displayInstructions() {
         System.out.println(instructions);
-    }
-
-    class MergeSort {
-        //implements bottom up approach
-        public void mergeSort(ArrayList<Pizza> pizzas) {
-            sort(0, pizzas.size(), pizzas);
-        }
-
-        private void sort(int low, int high, ArrayList<Pizza> pizzas) {
-            if ((high - low) > 1) {
-                int middle = (low + high) / 2;
-                sort(low, middle, pizzas);
-                sort(middle, high, pizzas);
-                mergeByCalories(low, middle, high, pizzas);
-            }
-        }
-
-        private void mergeByCalories(int low, int middle, int high, ArrayList<Pizza> pizzas) {
-            int i = low;
-            int j = middle;
-            int k = 0;
-            Pizza[] temp = new Pizza[high - low];
-            while (i < middle && j < high) {
-                if (pizzas.get(i).compareToByCalories(pizzas.get(j)) > 0) {
-                    temp[k++] = pizzas.get(i++);
-                } else {
-                    temp[k++] = pizzas.get(j++);
-                }
-            }
-            while (i < middle) {
-                temp[k] = pizzas.get(i++);
-                k++;
-            }
-            while (j < high) {
-                temp[k] = pizzas.get(j++);
-                k++;
-            }
-            for (k = 0; k < high - low; k++) {
-                pizzas.insert(temp[k], low + k);
-            }
-        }
-
-        public void main(String[] args) {
-            mergeSort(pizzas);
-            for (Pizza i : pizzas) {
-                System.out.print(i + ",");
-            }
-        }
     }
 }
