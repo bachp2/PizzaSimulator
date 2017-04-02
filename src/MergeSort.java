@@ -2,41 +2,48 @@
  * Created by bachp on 3/27/17.
  */
 public class MergeSort {
-    static int[] B = {2,-4,-955,1,26,12,6,9,-16,-48,63,136,56};
+    static int[] B = {2,-4,5,3,56,124,123,56756,567,123,45,234,546,435,345,24,23,24,26,54,64};
     //implements bottom up approach
     public static void mergeSort(int[] B){
-        int[] A = new int[B.length];
-        for(int i = 0; i < B.length; i++){
-            A[i] = B[i];
-        }
-        sort(0, B.length - 1, A, B);
+        sort(0, B.length, B);
     }
-    private static void sort(int low, int high, int[] A, int[] B){
-        if(low < high){
+    private static void sort(int low, int high, int[] B){
+        if((high-low)>1){
             int middle = (low+high)/2;
-            sort(low, middle, A, B);
-            sort(middle + 1, high, A, B);
-            merge(low, middle, high, A, B);
+            sort(low, middle, B);
+            sort(middle, high, B);
+            merge(low, middle, high, B);
         }
     }
-    private static void merge(int begin, int middle, int end, int[] A, int[] B){
-        int i = begin;
-        int j = middle + 1;
-        for(int k = begin; k <= end; k++){
-            if(i <= middle && (j > end || A[i] <= A[j])){
-                B[k] = A[i];
-                i++;
+    private static void merge(int low, int middle, int high, int[] B){
+        int i = low;
+        int j = middle;
+        int k = 0;
+        int[] temp = new int[high - low];
+        while(i < middle && j < high){
+            if(B[i] < B[j]){
+                temp[k++] = B[i++];
             }
             else{
-                B[k] = A[j];
-                j++;
+                temp[k++] = B[j++];
             }
+        }
+        while(i < middle){
+            temp[k] = B[i++];
+            k++;
+        }
+        while(j < high){
+            temp[k] = B[j++];
+            k++;
+        }
+        for(k = 0; k < high-low; k++){
+            B[low + k] = temp[k];
         }
     }
     public static void main(String[] args){
         mergeSort(B);
         for(int i  : B){
-            System.out.println(i+" ");
+            System.out.print(i+",");
         }
     }
 }
