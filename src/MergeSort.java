@@ -2,7 +2,7 @@
  * Created by bachp on 3/27/17.
  */
 public class MergeSort {
-    static int[] B = {2,-4};
+    static int[] B = {2,-4,-955,1,26,12,6,9,-16,-48,63,136,56};
     //implements bottom up approach
     public static void mergeSort(int[] B){
         int[] A = new int[B.length];

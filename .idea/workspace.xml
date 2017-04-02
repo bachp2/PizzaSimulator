@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b43947-8404-450f-89fa-2962c1b5e4ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Alfredo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/ArrayList$ArrayListIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/ArrayList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Base.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Cheese.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Circle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Fraction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Goat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Ingredient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Marinara.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Meat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/MergeSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Money.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Mozzarella.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Olive.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Pepper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Pepperoni.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Pizza.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/PizzaComparable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/PizzaException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/PizzaManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Sausage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Shape.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Square.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PizzaSimulator/Vegetable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MergeSort.java" afterPath="$PROJECT_DIR$/src/MergeSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +31,8 @@
       <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+            <state relative-caret-position="646">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -458,7 +432,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31323528" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30441177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -469,7 +443,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3985294" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -524,10 +498,10 @@
           <url>file://$PROJECT_DIR$/src/MergeSort.java</url>
           <line>14</line>
           <properties />
-          <option name="timeStamp" value="7" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -889,8 +863,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        <state relative-caret-position="646">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
